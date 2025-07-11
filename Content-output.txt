@@ -1,0 +1,63 @@
+Okay, here is a summarization table comparing AI, Generative AI (Gen AI), and Agentic AI. These terms represent different levels of breadth and specific capabilities within the field of Artificial Intelligence.
+
+Think of it like this: **AI** is the vast ocean. **Generative AI** is a specific powerful current within that ocean that *creates* things. **Agentic AI** is a ship sailing in that ocean (potentially using those currents) with the ability to *plan, navigate, and act* autonomously to reach a destination (a goal).
+
+Here's the table:
+
+| Feature / Concept      | Artificial Intelligence (AI)                   | Generative AI (Gen AI)                             | Agentic AI                                          |
+| :--------------------- | :--------------------------------------------- | :------------------------------------------------- | :-------------------------------------------------- |
+| **Scope**              | The broad field/concept of machines simulating human intelligence. | A specific *type* or *application* within AI.      | A specific *type* or *architecture* within AI, often building on others. |
+| **Primary Focus / Core Function** | Simulating human cognitive functions (learning, reasoning, perception, problem-solving). | Creating novel content (text, images, code, music, etc.) based on learned patterns. | Achieving specific goals by planning, executing actions, and interacting with an environment. |
+| **Key Capabilities**   | Machine Learning, Deep Learning, Natural Language Processing (NLP), Computer Vision, Planning, Reasoning, Expert Systems. | Pattern recognition, data generation, synthesis, creativity (in terms of novelty), understanding and manipulating complex data structures (like language, images). | Planning, task decomposition, tool usage, environment interaction (digital/physical), goal monitoring, iterative refinement, autonomous execution. |
+| **Relationship**       | The overarching field.                       | A *subset* of AI focused on content generation.    | Can be a *subset* of AI. Often *leverages* Gen AI and other AI capabilities (like planning, perception) to enable goal-directed action. |
+| **Typical Output**     | Decisions, predictions, classifications, analysis, insights, performance of specific tasks (e.g., recognizing objects, translating language). | Generated content: essays, stories, code snippets, images, music tracks, synthetic data. | Completed tasks, achieved goals, sequences of actions taken, interactions with external systems/APIs, solutions to multi-step problems. |
+| **Level of Autonomy / Action** | Varies widely. Can be reactive or proactive depending on the system, but not inherently designed for independent, multi-step goal pursuit in complex environments without explicit task definitions. | Generally low autonomy; reactive to prompts to generate content. Does not *act* autonomously in the world to achieve external goals. | High potential for autonomy (within defined constraints/goals); proactive in planning and executing steps, interacting with the environment to reach an objective. Designed to *act*. |
+| **Examples**           | Traditional Machine Learning models (for classification, regression), Expert Systems, Robotics (control systems), Standard NLP (sentiment analysis, translation). | Large Language Models (LLMs) like GPT, Bard, Claude; Image generators like DALL-E, Midjourney, Stable Diffusion; AI music generators. | Early prototypes like AutoGPT/BabyAGI concepts, AI systems controlling complex robots for multi-stage tasks, sophisticated virtual assistants capable of complex multi-step actions (like booking a trip end-to-end), autonomous financial trading agents. |
+
+In essence:
+
+*   **AI** is the foundational concept of intelligent machines.
+*   **Gen AI** is a specific capability *within* AI focused on *creating* new things.
+*   **Agentic AI** is an architectural approach or paradigm *within* AI that focuses on building systems capable of *acting* autonomously to achieve defined goals, often *using* Gen AI and other AI capabilities as tools.
+models/gemini-1.0-pro-vision-latest
+models/gemini-pro-vision
+models/gemini-1.5-pro-latest
+models/gemini-1.5-pro-002
+models/gemini-1.5-pro
+models/gemini-1.5-flash-latest
+models/gemini-1.5-flash
+models/gemini-1.5-flash-002
+models/gemini-1.5-flash-8b
+models/gemini-1.5-flash-8b-001
+models/gemini-1.5-flash-8b-latest
+models/gemini-2.5-pro-preview-03-25
+models/gemini-2.5-flash-preview-04-17
+models/gemini-2.5-flash-preview-05-20
+models/gemini-2.5-flash
+models/gemini-2.5-flash-preview-04-17-thinking
+models/gemini-2.5-flash-lite-preview-06-17
+models/gemini-2.5-pro-preview-05-06
+models/gemini-2.5-pro-preview-06-05
+models/gemini-2.5-pro
+models/gemini-2.0-flash-exp
+models/gemini-2.0-flash
+models/gemini-2.0-flash-001
+models/gemini-2.0-flash-lite-001
+models/gemini-2.0-flash-lite
+models/gemini-2.0-flash-lite-preview-02-05
+models/gemini-2.0-flash-lite-preview
+models/gemini-2.0-pro-exp
+models/gemini-2.0-pro-exp-02-05
+models/gemini-exp-1206
+models/gemini-2.0-flash-thinking-exp-01-21
+models/gemini-2.0-flash-thinking-exp
+models/gemini-2.0-flash-thinking-exp-1219
+models/gemini-2.5-flash-preview-tts
+models/gemini-2.5-pro-preview-tts
+models/learnlm-2.0-flash-experimental
+models/gemma-3-1b-it
+models/gemma-3-4b-it
+models/gemma-3-12b-it
+models/gemma-3-27b-it
+models/gemma-3n-e4b-it
+models/gemma-3n-e2b-it
