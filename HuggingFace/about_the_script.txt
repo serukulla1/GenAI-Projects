@@ -1,0 +1,11 @@
+This project provides a user-friendly interface built with Gradio to perform the following tasks:
+
+Text Generation
+Generate human-like text responses using the GPT-2 model from the Hugging Face Transformers library.
+
+Sentiment Analysis
+Analyze the sentiment of input text (positive, negative, or neutral) using pre-trained models from the Transformers library.
+
+Text-to-Image Generation
+Convert descriptive text prompts into images using a diffusion-based text-to-image generative model.
+
